@@ -6,7 +6,7 @@
 
     <groupId>webLaba2</groupId>
     <artifactId>PharmacyKiev</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>ROOT</version>
     <packaging>war</packaging>
 
 
