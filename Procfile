@@ -1,1 +1,1 @@
-web: java -jar target/ROOT.war
+web: java -jar target/PharmacyKiev-1.0-SNAPSHOT
